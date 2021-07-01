@@ -1,3 +1,3 @@
 # Work-Truck
 
-## Heroku: https://git.heroku.com/nosqlfitness.git
+## Heroku: https://nosqlfitness.herokuapp.com/
